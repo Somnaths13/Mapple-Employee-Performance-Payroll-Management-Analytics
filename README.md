@@ -11,6 +11,7 @@ Workbook structure
 Employe_Performance_dataset — cleaned raw data (2,000 records, 12 attributes)
 DASHBOARD / DASHBOARD1 — KPI scorecards, pivot charts, and interactive slicers (Location, Department, Status, Session, Gender, Year)
 Supporting sheets for pivot calculations and slicer connections
+![image alt](https://github.com/Somnaths13/Mapple-Employee-Performance-Payroll-Management-Analytics/blob/4a646190670142f5829a8866248be4fd90e86ae1/Screenshot%202026-08-29%20090201.png)
 📊 Project Objective
 
 To build a data-driven analytics framework that evaluates:

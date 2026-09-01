@@ -31,6 +31,11 @@ Evaluation tracking gaps — over 50% of performance ratings unrecorded
 Geographic cost variance — unmonitored payroll differences across branches
 Workforce inactivity — nearly 50% of employee records marked inactive
 
+Dataset Description: 
+![image alt](https://github.com/Somnaths13/Mapple-Employee-Performance-Payroll-Management-Analytics/blob/0c4fa2e663451b6d6a90806ffce20ca6607d91e6/data.png)
+The data is taken from kaggle and then data is cleaned and then we perform opertions and create our dashboard . our data has 12 attributes and based on this attributes we
+found our key insights and based on this key insights we make our dashboard . 
+
  Tools & Techniques
 Formulas: COUNTIF, AVERAGEIFS, SUMIFS, MAX/MIN, XLOOKUP, dynamic matrix formulas
 Data Modeling: Dynamic Pivot Tables & Pivot Charts, Timeline Slicers, cross-tabulations
